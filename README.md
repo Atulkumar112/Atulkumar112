@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Atulkumar112
-- 👀 I’m interested in Machine Learning & Data Science
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on IT Company
+- 👀 I’m interested to do Coding.
+- 🌱 I’m currently learning DSA.
+- 🌱 I’m also currently in Capgemini as Software Engineer (Backend) with SAP hybris Technology 
+- 💞️ I’m looking to collaborate to MAANG Companies.
 - 📫 How to reach me.....
 you can contect me via Gmail :- atul.kumar112000@gmail.com
 And mobile no is 9119785897
