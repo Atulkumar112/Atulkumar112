@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/astronautatul" target="blank"><img src="https://img.shields.io/twitter/follow/astronautatul?logo=twitter&style=for-the-badge" alt="astronautatul" /></a> </p>
 
-- 🔭 I’m currently working on [Capgemini](https://www.capgemini.com/)
+- 🔭 I’m currently working on [Digantara](https://www.digantara.co.in/)
 
 - 🌱 I’m currently learning **DSA**
 
