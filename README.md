@@ -47,5 +47,5 @@
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atulkumar112&theme=tokyonight)
 </p>
 
-##Watch My Contribution Graph Get Eaten BY The Snake  
-<![snake gif](https://github.com/atulkumar112/atulkumar112/blob/output/github-contribution-grid-snake.gif)>
+[comment]: <> (##Watch My Contribution Graph Get Eaten BY The Snake )
+[comment]: <> (<![snake gif](https://github.com/atulkumar112/atulkumar112/blob/output/github-contribution-grid-snake.gif)>)
